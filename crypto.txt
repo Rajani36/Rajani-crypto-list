@@ -3,8 +3,4 @@ Avalanche
 Uniswap
 Chainlink
 Maker
-Theta-Network
-The-Graph
-Stacks
-Loopring
-Gnosis
+
